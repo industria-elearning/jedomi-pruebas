@@ -66,7 +66,7 @@ crea un grupo que se llame Grupo A dentro del curso MARKETING Y NEGOCIOS DIGITAL
 asigna a los usuarios user1, user2 y user3 al grupo Grupo A
 ```
 
-## Lectura de archivo dentro de un recurso del curso
+## 10. Lectura de archivo dentro de un recurso del curso
 
 **IMPORTANTE ESTE PROMPT SE DEBE INGRESAR DESDE EL CURSO https://jedomi.com/course/view.php?id=88**
 
