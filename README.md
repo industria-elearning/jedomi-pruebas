@@ -66,3 +66,10 @@ crea un grupo que se llame Grupo A dentro del curso MARKETING Y NEGOCIOS DIGITAL
 asigna a los usuarios user1, user2 y user3 al grupo Grupo A
 ```
 
+## Lectura de archivo dentro de un recurso del curso
+
+**IMPORTANTE ESTE PROMPT SE DEBE INGRESAR DESDE EL CURSO https://jedomi.com/course/view.php?id=88**
+
+```
+dame un resumen del contenido del archivo de silabo del curso MARKETING Y NEGOCIOS DIGITALES
+```
